@@ -1,19 +1,14 @@
 class Solution {
-    private: 
-    int solve(int m, int n,vector<vector<int>>&memo ){
-        if(m==1 || n==1){
-            return 1;
-        }
-        if(memo[m][n] != -1){
-            return memo[m][n];
-        }
-        memo[m][n] = solve(m-1,n,memo)+solve(m,n-1,memo);
-        return memo[m][n];
-    }
 public:
     int uniquePaths(int m, int n) {
-        vector<vector<int>>memo(m+1,vector<int>(n+1,-1));
-        return solve(m,n,memo);
-        
+        vector<vector<int>>dp(m,vector<int>(n,1));  // solved this question using tabulation method
+        for(int i =1; i<m; i++){
+            for(int j =1; j<n;j++){
+                dp[i][j] = dp[i-1][j] + dp[i][j-1];
+            }
+        }
+        return dp[m-1][n-1];
     }
 };
+
+// space complexity O(m X n)
