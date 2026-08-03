@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -68,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
