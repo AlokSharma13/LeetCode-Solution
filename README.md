@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0184-department-highest-salary) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
