@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
