@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0184-department-highest-salary) |
 | [1393-capital-gainloss](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1393-capital-gainloss) |
+| [1965-employees-with-missing-information](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1965-employees-with-missing-information) |
 ## Union-Find
 |  |
 | ------- |
