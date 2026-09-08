@@ -31,23 +31,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 ## Math
 |  |
 | ------- |
