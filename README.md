@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 ## Math
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
