@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0279-perfect-squares) |
+| [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
 ## Combinatorics
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
 ## Divide and Conquer
 |  |
 | ------- |
