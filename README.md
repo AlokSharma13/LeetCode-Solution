@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
+| [0213-house-robber-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
