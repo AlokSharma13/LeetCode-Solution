@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
@@ -149,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
