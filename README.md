@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
+| [1143-longest-common-subsequence](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
 ## Combinatorics
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0065-valid-number) |
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
+| [1143-longest-common-subsequence](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
