@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0279-perfect-squares) |
 | [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
 | [1143-longest-common-subsequence](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
 ## Combinatorics
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 ## Backtracking
 |  |
 | ------- |
