@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
+| [2751-robot-collisions](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/2751-robot-collisions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1402-reducing-dishes](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1402-reducing-dishes) |
+| [2751-robot-collisions](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/2751-robot-collisions) |
 ## Tree
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/2751-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
