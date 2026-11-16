@@ -1,15 +1,16 @@
 class Solution {
 
 private:
-    int DFS(int curr, int par , vector<vector<int>>&adj, vector<bool>&hasapple){
+    int DFS(int curr, vector<bool>& visited , vector<vector<int>>&adj, vector<bool>&hasapple){
+        visited[curr] = true;
         int totaltime = 0;
         for(int neighbour : adj[curr]){
-            if(neighbour == par) continue;
+            if (!visited[neighbour]) {
+            int timefromchild = DFS(neighbour , visited , adj , hasapple);
 
-            int timefromchild = DFS(neighbour , curr , adj , hasapple);
-
-            if(timefromchild>0||hasapple[neighbour]){
-                totaltime += timefromchild+2;
+                if(timefromchild>0||hasapple[neighbour]){
+                    totaltime += timefromchild+2;
+                }
             }
         }
         return totaltime;
@@ -23,6 +24,8 @@ public:
             adj[edges[1]].push_back(edges[0]);
         }
 
-        return DFS(0,-1,adj,hasApple);
+        vector<bool> visited(n, false);
+
+        return DFS(0,visited,adj,hasApple);
     }
 };
