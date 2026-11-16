@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1162-as-far-from-land-as-possible) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0740-delete-and-earn](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/0740-delete-and-earn) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/2751-robot-collisions) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/AlokSharma13/LeetCode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
